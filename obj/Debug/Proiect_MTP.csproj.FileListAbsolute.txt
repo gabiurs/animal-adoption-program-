@@ -1,0 +1,14 @@
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\bin\Debug\Proiect_MTP.exe.config
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\bin\Debug\Proiect_MTP.exe
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\bin\Debug\Proiect_MTP.pdb
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.csprojAssemblyReference.cache
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.Properties.Resources.resources
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.csproj.GenerateResource.cache
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.csproj.CoreCompileInputs.cache
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.exe
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.pdb
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.Meniu.resources
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.Login.resources
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.Inregistrare.resources
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.Adoptie.resources
+C:\Users\ursul\OneDrive - Universitatea Politehnica Timisoara\Desktop\Proiect MTP\Proiect_MTP\Proiect_MTP\obj\Debug\Proiect_MTP.OferaAdoptie.resources
